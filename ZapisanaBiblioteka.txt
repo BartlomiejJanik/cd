@@ -1,0 +1,3 @@
+Biblioteka
+Aaa;Bbb;300.0;500.0#Trooper;Iron Maiden;2.5@Fly;Iron Maiden;4.2@
+Ccc;Ddd;300.0;500.0#Scare;Iron Maiden;3.5@
